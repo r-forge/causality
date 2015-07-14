@@ -1,0 +1,11 @@
+Package: efflog
+Type: Package
+Title: the causal effects for a causal loglinear model 
+Version: 1.1
+Date: 2015-07-14
+Author: Gloria Gheno
+Maintainer: Gloria Gheno <gloriagheno@libero.it>
+Description: It calculates the causal effect for a loglinear model according my working paper The causal analysis in the loglinear model
+License: GPL (>= 2)
+Depends:R(>= 2.10.1)
+ 
